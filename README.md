@@ -52,16 +52,15 @@ git clone https://github.com/HananehDev/Accounting_Project.git
 2️⃣ Open the solution
 
 Open the following file in Visual Studio:
-```
+
 Accounting.sln
-```
 
 3️⃣ Configure database connection
 
 Update the connection string in:
-```
+
 Accounting.App/App.config
-```
+
 
 4️⃣ Setup database
 
@@ -82,3 +81,4 @@ Database Engine: SQL Server
 Designed for accounting records, users, customers, and reports
 
 Repository Pattern is used to abstract data access logic
+
