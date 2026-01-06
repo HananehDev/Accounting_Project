@@ -51,9 +51,7 @@ git clone https://github.com/HananehDev/Accounting_Project.git
 
 2️⃣ Open the solution
 
-Open the following file in Visual Studio:
-
-Accounting.sln
+Open the following file in Visual Studio: `Accounting.sln`
 
 3️⃣ Configure database connection
 
