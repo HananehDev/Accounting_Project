@@ -120,8 +120,9 @@ Shows:
 
 5️⃣ Transaction Report
 
-<img align="left" src="https://github.com/HananehDev/Accounting_Project/blob/master/dar.png?raw=true" alt="Login Form" />
-<img align="right" src="https://github.com/HananehDev/Accounting_Project/blob/master/par.png?raw=true" alt="Login Form" />
+<img align="center" src="https://github.com/HananehDev/Accounting_Project/blob/master/dar.png?raw=true" alt="Login Form" />
+
+<img align="center" src="https://github.com/HananehDev/Accounting_Project/blob/master/par.png?raw=true" alt="Login Form" />
 
 Shows:
 - Filters to select transactions by date range and account type.
@@ -137,3 +138,9 @@ Shows:
 - SQL Server integration
 - Layered solution design
 - Real-world accounting application concepts
+
+
+👨‍💻 Author
+
+Name: Hananeh Ranjbaran
+GitHub: https://github.com/HananehDev
