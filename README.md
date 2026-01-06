@@ -78,5 +78,28 @@ Designed for accounting records, users, customers, and reports
 
 Repository Pattern is used to abstract data access logic
 ```
+1️⃣Login Form
+
 <img align="right" src="https://github.com/HananehDev/Accounting_Project/blob/master/Screenshot%202026-01-06%20115734.png?raw=true" alt="Login Form" />
+Shows:
+User authentication UI
+Username and password fields
+Entry point of the system
+
+
+2️⃣ Main Dashboard
+
 <img align="left" src="https://github.com/HananehDev/Accounting_Project/blob/master/Screenshot%202026-01-06%20115840.png?raw=true" alt="Login Form" />
+Shows:
+Application layout
+Navigation menus
+Main modules of the accounting system
+
+
+3️⃣ Customer / Account Management
+
+<img align="left" src="https://github.com/HananehDev/Accounting_Project/blob/master/Screenshot%202026-01-06%20115840.png?raw=true" alt="Login Form" />
+Shows:
+Data grid with records
+Add / Edit / Delete operations
+CRUD functionality
