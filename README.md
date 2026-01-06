@@ -22,3 +22,12 @@ providing a clean, maintainable, and scalable architecture.
 - SQL Server
 - Repository Pattern
 - Entity Framework
+
+---
+
+## 🧱 Project Architecture
+The project is designed using the **Repository Pattern** to:
+- Separate concerns
+- Reduce tight coupling
+- Improve maintainability
+- Make future development easier
