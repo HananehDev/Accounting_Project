@@ -110,7 +110,7 @@ Shows:
 
 4️⃣ New Transaction
 
-<img align="center" src="https://github.com/HananehDev/Accounting_Project/blob/master/Screenshot%202026-01-06%20115840.png?raw=true" alt="Login Form" /> 
+<img align="center" src="https://github.com/HananehDev/Accounting_Project/blob/master/Tran.png?raw=true" alt="Login Form" /> 
 
 Shows:
 - Selection of a person from the list to associate with the transaction.
