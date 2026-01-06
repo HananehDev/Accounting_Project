@@ -78,5 +78,5 @@ Designed for accounting records, users, customers, and reports
 
 Repository Pattern is used to abstract data access logic
 ```
-<img src="" alt="Login Form" />
-<img src="" alt="Login Form" />
+<img align="right" src="https://github.com/HananehDev/Accounting_Project/blob/master/Screenshot%202026-01-06%20115734.png?raw=true" alt="Login Form" />
+<img align="left" src="" alt="Login Form" />
