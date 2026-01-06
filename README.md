@@ -100,7 +100,7 @@ Shows:
 
 3️⃣ Customer / Account Management
 
-<img align="center" src="https://github.com/HananehDev/Accounting_Project/blob/master/Screenshot%202026-01-06%20115840.png?raw=true" alt="Login Form" />
+<img align="center" src="https://github.com/HananehDev/Accounting_Project/blob/master/list.png?raw=true" alt="Login Form" />
 
 Shows:
 - Data grid with records
