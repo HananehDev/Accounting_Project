@@ -83,9 +83,9 @@ Repository Pattern is used to abstract data access logic
 <img align="center" src="https://github.com/HananehDev/Accounting_Project/blob/master/Screenshot%202026-01-06%20115734.png?raw=true" alt="Login Form" />
 
 Shows:
-User authentication UI
-Username and password fields
-Entry point of the system
+- User authentication UI
+- Username and password fields
+- Entry point of the system
 
 
 2️⃣ Main Dashboard
